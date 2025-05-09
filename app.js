@@ -5,4 +5,4 @@ var students = {
 
 
 let {email,name} = students
-console.log(email,name) git a
+console.log(email,name)
