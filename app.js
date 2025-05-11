@@ -3,9 +3,8 @@ var students = {
     email : "abc@gmail.com"
 }
 
-
-let {email,name} = students
-console.log(email,name)
+ let {email , name,city} = students
+ console.log(email , name , )
 
 let arr = ["ahsan","baloch"]
 let arr2 = ["karachi","pakistan"]
