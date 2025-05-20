@@ -1,12 +1,15 @@
-var students = {
-    name : "ahsan",
-    email : "abc@gmail.com"
-}
+// var students = {
+//     name : "ahsan",
+//     email : "abc@gmail.com"
+// }
 
- let {email , name,city} = students
- console.log(email , name , )
+//  let {email , name,city} = students
+//  console.log(email , name , )
 
-let arr = ["ahsan","baloch"]
-let arr2 = ["karachi","pakistan"]
-let merge = [...arr,...arr2]
-console.log(merge);
+// let arr = ["ahsan","baloch"]
+// let arr2 = ["karachi","pakistan"]
+// let merge = [...arr,...arr2]
+// console.log(merge);
+
+
+// =============== destructuring ==============
